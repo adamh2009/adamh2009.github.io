@@ -1,0 +1,9 @@
+baseURL = 'https://18vv.co.uk/'
+languageCode = 'en-gb'
+title = 'My Landing Page'
+theme = 'startpage'
+
+[[params.searchEngines]]
+  name = "Google"
+  activated = true
+  url = "https://www.google.com/search"
